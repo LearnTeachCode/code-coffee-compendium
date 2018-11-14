@@ -1,1 +1,1 @@
-# baldwinpark-study-group
+# baldwinpark-code-and-coffee
