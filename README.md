@@ -10,3 +10,5 @@
   * [Codecademy](https://www.codecademy.com/) - Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
   * [NodeSchool](https://nodeschool.io) - Open source workshops that teach web software skills with Node.js.
   * [CryptoZombies](https://cryptozombies.io) - Learn to code Ethereum dApps by building your own game.
+
+Want extra coding help? Join our [Slack group](https://learnteachcode.org/slack).
