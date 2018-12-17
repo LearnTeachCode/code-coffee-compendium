@@ -1,0 +1,59 @@
+= baldwinpark-code-and-coffee
+
+== Interactive tutorials
+[cols="4,14,4,3", options="header"] 
+|===
+|Name
+|Description
+|UI
+|Offline
+
+|https://www.codecademy.com/[Codecademy]
+|Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+|Browser
+|No
+
+|https://nodeschool.io[NodeSchool]
+|Workshops that teach web software skills with Node.js.
+|Command-line
+|Yes, after npm install
+
+|http://exercism.io[Exercism]
+|Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
+|Command-line
+|Yes, after npm install
+
+|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
+|Test your Command Line skills here!
+|Command-line
+|No
+
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
+|Browser
+|No
+
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|Browser
+|No
+
+|vimtutor
+|A vim tutorial guide. Simply open a terminal window and run `vimtutor`.
+|Command-line
+|Yes
+
+|===
+
+== References
+
+* AI/Machine Learning
+** https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
+*** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
+** https://keras.io/[keras]
+* Command Line
+** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
+
+'''
+
+Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
