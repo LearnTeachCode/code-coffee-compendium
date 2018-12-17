@@ -1,16 +1,7 @@
 = baldwinpark-code-and-coffee
 
-== Resource Links
-
-* AI/Machine Learning
-** https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
-*** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
-** https://keras.io/[keras]
-* Command Line
-** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
-
+== Interactive tutorials
 [cols="4,14,4,3", options="header"] 
-.*Self-guided tutorials*
 |===
 |Name
 |Description
@@ -53,5 +44,16 @@
 |Yes
 
 |===
+
+== References
+
+* AI/Machine Learning
+** https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
+*** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
+** https://keras.io/[keras]
+* Command Line
+** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
+
+'''
 
 Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
