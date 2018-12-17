@@ -1,7 +1,7 @@
 = baldwinpark-code-and-coffee
 
 == Interactive tutorials
-[cols="4,14,4,3", options="header"] 
+[cols="4,4,14,3", options="header"] 
 |===
 |Name
 |Description
