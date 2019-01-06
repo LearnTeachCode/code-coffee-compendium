@@ -1,7 +1,7 @@
 = baldwinpark-code-and-coffee
 
 == Interactive tutorials
-[cols="4,14,4,3", options="header"] 
+[cols="4,14,4a,3a", options="header"] 
 |===
 |Name
 |Description
@@ -38,10 +38,14 @@
 |Browser
 |No
 
-|vimtutor
-|A vim tutorial guide. Simply open a terminal window and run `vimtutor`.
-|Command-line
-|Yes
+|https://tour.golang.org/[golang]
+a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
+----
+$ go get golang.org/x/tour/gotour
+$ gotour
+----
+|Browser, Command-line
+|Yes, after Go install
 
 |===
 
@@ -53,6 +57,7 @@
 ** https://keras.io/[keras]
 * Command Line
 ** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
+** `$ vimtutor`
 
 '''
 
