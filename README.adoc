@@ -58,6 +58,10 @@ $ gotour
 * Command Line
 ** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
 ** `$ vimtutor`
+* Web Development
+** Ruby on Rails
+*** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
+*** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
 
 '''
 
