@@ -1,6 +1,6 @@
 = baldwinpark-code-and-coffee
 
-image::./code_coffeelogo.png[][Sunset,246,139]
+image::./logo/code_coffeelogo.png[][Sunset,246,139]
 
 == Interactive tutorials
 [cols="4,14,4a,3a", options="header"] 
