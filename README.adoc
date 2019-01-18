@@ -1,9 +1,12 @@
 = baldwinpark-code-and-coffee
+:toc: macro
 
 image::./logo/code_coffeelogo.png[][Sunset,246,139]
 
+toc::[]
+
 == Interactive tutorials
-[cols="4,14,4a,3a", options="header"] 
+[cols="4,14,4a,3a", options="header", frame=none, grid=none] 
 |===
 |Name
 |Description
@@ -51,19 +54,23 @@ $ gotour
 
 |===
 
+'''
+
 == References
 
-* AI/Machine Learning
-** https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
-*** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
-** https://keras.io/[keras]
-* Command Line
-** https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
-** `$ vimtutor`
-* Web Development
-** Ruby on Rails
-*** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
-*** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
+=== AI/Machine Learning
+ * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
+ ** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
+ * https://keras.io/[keras]
+
+=== Command Line
+ * https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
+ * `$ vimtutor`
+
+=== Web Development
+ * Ruby on Rails
+ ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
+ ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
 
 '''
 
