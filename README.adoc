@@ -1,10 +1,12 @@
 = baldwinpark-code-and-coffee
-:toc:
+:toc: macro
 
 image::./logo/code_coffeelogo.png[][Sunset,246,139]
 
+toc::[]
+
 == Interactive tutorials
-[cols="4,14,4a,3a", options="header"] 
+[cols="4,14,4a,3a", options="header", frame=none, grid=none] 
 |===
 |Name
 |Description
@@ -51,6 +53,8 @@ $ gotour
 |Yes, after Go install
 
 |===
+
+'''
 
 == References
 
