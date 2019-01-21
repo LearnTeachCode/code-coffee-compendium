@@ -44,7 +44,7 @@ toc::[]
 |No
 
 |https://tour.golang.org/[golang]
-|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
+a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
 ----
 $ go get golang.org/x/tour/gotour
 $ gotour
