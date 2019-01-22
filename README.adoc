@@ -6,7 +6,7 @@ image:./logo/code_coffeelogo.png[logo,246,139]
 toc::[float="left"]
 
 == Interactive tutorials
-[cols="4,14,4a,3a", options="header", frame=none, grid=none] 
+[cols="4,14,4a,3a", options="header", frame=none, grid=none]
 |===
 |Name
 |Description
@@ -52,6 +52,11 @@ $ gotour
 |Browser, Command-line
 |Yes, after Go install
 
+|https://chartio.com/learn/sql/[PostgreSQL]
+|An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
+|Browser
+|No
+
 |===
 
 '''
@@ -68,6 +73,8 @@ $ gotour
  * `$ vimtutor`
 
 === Web Development
+ * Django
+ ** https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
  * Ruby on Rails
  ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
  ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
