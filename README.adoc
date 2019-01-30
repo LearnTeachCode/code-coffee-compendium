@@ -33,13 +33,13 @@ toc::[float="left"]
 |Command-line
 |No
 
-|https://cryptozombies.io[CryptoZombies]
-|Learn to code Ethereum dApps by building your own game.
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 |Browser
 |No
 
-|https://ethernaut.zeppelin.solutions/[Ethernaut]
-|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
 |Browser
 |No
 
