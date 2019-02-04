@@ -46,8 +46,14 @@ toc::[float="left"]
 |https://tour.golang.org/[golang]
 a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
 ----
+$ brew install go
 $ go get golang.org/x/tour/gotour
 $ gotour
+$ cat >> .bashrc << 'EOF'
+$ export GOPATH="${HOME}/.go"
+$ export GOROOT="$(brew --prefix golang)/libexec"
+$ export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
+$ EOF
 ----
 |Browser, Command-line
 |Yes, after Go install
