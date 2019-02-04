@@ -50,7 +50,7 @@ $ brew install go
 $ go get golang.org/x/tour/gotour
 $ gotour
 $ cat >> .bashrc << 'EOF'
-$ export GOPATH="${HOME}/.go"
+$ export GOPATH="${HOME}/go"
 $ export GOROOT="$(brew --prefix golang)/libexec"
 $ export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
 $ EOF
