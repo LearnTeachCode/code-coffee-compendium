@@ -33,19 +33,26 @@ toc::[float="left"]
 |Command-line
 |No
 
-|https://cryptozombies.io[CryptoZombies]
-|Learn to code Ethereum dApps by building your own game.
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 |Browser
 |No
 
-|https://ethernaut.zeppelin.solutions/[Ethernaut]
-|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
 |Browser
 |No
 
 |https://tour.golang.org/[golang]
 a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
 ----
+$ brew install go
+$ cat >> .bashrc << 'EOF'
+$ export GOPATH="${HOME}/go"
+$ export GOROOT="$(brew --prefix golang)/libexec"
+$ export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
+$ EOF
+$ source .bashrc
 $ go get golang.org/x/tour/gotour
 $ gotour
 ----
@@ -62,6 +69,9 @@ $ gotour
 '''
 
 == References
+
+=== Algorithms
+ * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
 
 === AI/Machine Learning
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
