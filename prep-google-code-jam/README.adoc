@@ -15,23 +15,23 @@ https://en.wikipedia.org/wiki/Google_Code_Jam[Google Code Jam] is an annual prog
 |===
 |Data Structure
 |Description
-|Slides
+|Solution
 |Sample Problem
 
 |https://en.wikipedia.org/wiki/Character_(computing)[char]
 |char: character ie. '[a-z][A-Z][0-9]' etc, all human readable symbols. Interestingly, the value of a char is not equal to its decimal(integer), '1' != 1. Refering to http://www.asciitable.com/[asciitable], '1' = 49.
-|n/a
+|posting after end of meetup
 |https://www.hackerrank.com/contests/fau-coding-competition/challenges/guild-unique-characters[HackerRank]
 
 |https://en.wikipedia.org/wiki/String_(computer_science)[string]
 |str: string ie. an array or a vector of chars, human readable.
 |n/a
-|
+|n/a
 
 |https://en.wikipedia.org/wiki/Array_data_structure[array]
 |array: a fixed size list of values. Each value has an index. When a program is compiled, the compiler sets aside a block of memory as indicated by the array size. Meaning that the array is stored in one location. This is important because data tables (databases) are usually implemented in arrays to make searching (indexing) faster. What is a lookup table? Ex. a mail deliverer does not know where you live exactly, but generally knows the location that your family resides at, and after arriving at your family's residence, can determine where to deliver your letter such that it reaches you.
 |n/a
-|
+|n/a
 
 |===
 
