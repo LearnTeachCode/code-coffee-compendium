@@ -10,7 +10,7 @@ toc::[float="left"]
 |===
 |Name
 |Description
-|Prerequisites
+|Requirements
 
 |https://www.codecademy.com/[Codecademy]
 |Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
