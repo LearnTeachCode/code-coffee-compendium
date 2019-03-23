@@ -6,42 +6,35 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 toc::[float="left"]
 
 == Interactive tutorials
-[cols="4,14,4a,3a", options="header", frame=none, grid=none]
+[cols="4,14,4a", options="header", frame=none, grid=none]
 |===
 |Name
 |Description
-|UI
-|Offline
+|Requirements
 
 |https://www.codecademy.com/[Codecademy]
 |Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
-|Browser
-|No
+|Browser & Internet
 
 |https://nodeschool.io[NodeSchool]
 |Workshops that teach web software skills with Node.js.
-|Command-line
-|Yes, after npm install
+|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
 
 |http://exercism.io[Exercism]
 |Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
-|Command-line
-|Yes, after npm install
+|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
 
 |http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
 |Test your Command Line skills here!
-|Command-line
-|No
+|Command-line & Internet
 
 |https://ethernaut.zeppelin.solutions/[Ethernaut]
 |A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
-|Browser
-|No
+|Browser & Internet
 
 |https://cryptozombies.io[CryptoZombies]
 |Learn to code Ethereum dApps by building your own game.
-|Browser
-|No
+|Browser & Internet
 
 |https://tour.golang.org/[golang]
 a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
@@ -56,13 +49,11 @@ $ source .bashrc
 $ go get golang.org/x/tour/gotour
 $ gotour
 ----
-|Browser, Command-line
-|Yes, after Go install
+|Browser & Internet
 
 |https://chartio.com/learn/sql/[PostgreSQL]
 |An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
-|Browser
-|No
+|Browser & Internet
 
 |===
 
