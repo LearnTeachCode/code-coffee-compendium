@@ -55,6 +55,10 @@ $ gotour
 |An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
 |Browser & Internet
 
+|https://www.hackthebox.eu/[hackthebox]
+|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
+|Browser (with Javascript console) & Internet
+
 |===
 
 '''
