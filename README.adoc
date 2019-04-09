@@ -5,6 +5,11 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 toc::[float="left"]
 
+== Introduction
+Welcome to the Baldwin Park code & coffee GitHub repository! This page serves as a resource compendium for facilitating frequently asked questions from our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/baldwinpark-code-and-coffee/issues/new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
+
+Note: this README is written in the AsciiDoc markup language (see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Syntax Quick Reference]).
+
 == Interactive tutorials
 [cols="4,14,4a", options="header", frame=none, grid=none]
 |===
