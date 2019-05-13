@@ -86,6 +86,9 @@ $ gotour
  * https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
  * `$ vimtutor`
 
+=== Design Patterns
+ * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
+
 === Web Development
  * Django
  ** https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
