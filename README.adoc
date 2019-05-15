@@ -89,6 +89,7 @@ $ gotour
 
 === Design Patterns
  * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
+ * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
 
 === Web Development
  * Django
