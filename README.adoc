@@ -76,6 +76,7 @@ $ gotour
 
 === Algorithms
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
+ * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
 
 === AI/Machine Learning
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
