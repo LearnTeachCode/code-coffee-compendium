@@ -92,6 +92,9 @@ $ gotour
  * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
  * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
 
+=== Distributed Version Control
+ * http://think-like-a-git.net/[Think Like (a) Git]
+
 === Math/Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
