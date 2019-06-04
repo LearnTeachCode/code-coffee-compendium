@@ -99,6 +99,9 @@ $ gotour
 === Math/Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
+=== Python
+ * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+
 === Web Development
  * Django
  ** https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
