@@ -74,9 +74,10 @@ $ gotour
 
 == References
 
-=== Algorithms
+=== Algorithms, Data Structures, & Big O Notation
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
+ * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
 
 === AI/Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
