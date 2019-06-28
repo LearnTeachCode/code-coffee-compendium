@@ -70,6 +70,16 @@ $ gotour
 
 |===
 
+== Interactive sandbox
+
+[cols="4,14,4a", options="header", frame=none, grid=none]
+|===
+|Name
+|Description
+|Requirements
+
+|===
+
 '''
 
 == References
