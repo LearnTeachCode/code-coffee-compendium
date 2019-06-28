@@ -89,18 +89,23 @@ $ gotour
  * https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
  * `$ vimtutor`
 
-=== Design Patterns
- * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
- * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
-
-=== Distributed Version Control
- * http://think-like-a-git.net/[Think Like (a) Git]
-
 === Math/Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+
+=== Software Engineering
+
+==== Design Patterns
+ * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
+ * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
+
+==== Distributed Version Control
+ * http://think-like-a-git.net/[Think Like (a) Git]
+
+==== System Design
+ * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
 
 === Web Development
  * Django
