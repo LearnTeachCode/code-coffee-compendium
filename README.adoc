@@ -1,5 +1,6 @@
 = baldwinpark-code-and-coffee image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com]
 :toc: macro
+:toclevels: 4
 
 image:./logo/code&coffeelogo.svg[logo,246,139]
 
