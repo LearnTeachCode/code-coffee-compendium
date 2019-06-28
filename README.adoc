@@ -11,6 +11,7 @@ Welcome to the Baldwin Park code & coffee GitHub repository! This page serves as
 Note: this README is written in the AsciiDoc markup language (see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Syntax Quick Reference]).
 
 == Interactive tutorials
+<clever & concise tagline here>
 [cols="4,14,4a", options="header", frame=none, grid=none]
 |===
 |Name
@@ -71,7 +72,7 @@ $ gotour
 |===
 
 == Interactive sandbox
-
+<clever & concise tagline here>
 [cols="4,14,4a", options="header", frame=none, grid=none]
 |===
 |Name
