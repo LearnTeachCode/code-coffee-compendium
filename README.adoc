@@ -90,6 +90,9 @@ $ gotour
  * https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
  * `$ vimtutor`
 
+=== Information Security (InfoSec)
+ * https://www.hacksplaining.com/[Hacksplaining]
+
 === Math/Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
