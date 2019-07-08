@@ -87,7 +87,6 @@ $ gotour
  * https://keras.io/[keras]
 
 === Command Line
- * https://www.learnenough.com/command-line-tutorial[Learn Enough Command Line to Be Dangerous]
  * `$ vimtutor`
 
 === Information Security (InfoSec)
