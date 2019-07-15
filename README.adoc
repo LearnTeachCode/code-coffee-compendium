@@ -79,6 +79,7 @@ $ gotour
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
+ * http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 === AI/Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
@@ -94,6 +95,7 @@ $ gotour
 
 === Math/Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
+ * http://mfleck.cs.illinois.edu/building-blocks/index-sp2018.html
 
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
