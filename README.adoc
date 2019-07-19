@@ -11,8 +11,12 @@ Welcome to the Baldwin Park code & coffee GitHub repository! This page serves as
 
 Note: this README is written in the AsciiDoc markup language (see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Syntax Quick Reference]).
 
-== Interactive tutorials
-[cols="4,14,4a", options="header", frame=none, grid=none]
+== Interactive Lessons & Challenges
+
+=== Learn a Tech Stack
+
+[%header,cols=3] 
+
 |===
 |Name
 |Description
@@ -29,18 +33,6 @@ Note: this README is written in the AsciiDoc markup language (see https://asciid
 |http://exercism.io[Exercism]
 |Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
 |Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
-
-|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
-|Test your Command Line skills here!
-|Command-line & Internet
-
-|https://ethernaut.zeppelin.solutions/[Ethernaut]
-|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
-|Browser & Internet
-
-|https://cryptozombies.io[CryptoZombies]
-|Learn to code Ethereum dApps by building your own game.
-|Browser & Internet
 
 |https://tour.golang.org/[golang]
 a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
@@ -61,14 +53,35 @@ $ gotour
 |An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
 |Browser & Internet
 
-|https://www.hackthebox.eu/[hackthebox]
-|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
-|Browser (with Javascript console) & Internet
-
 |https://regexone.com/[RegexOne]
 |Learn Regular Expressions with simple, interactive exercises.
 |Browser & Internet
 
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
+|Browser & Internet
+|===
+
+=== Capture the Flag (CTF) 
+
+[%header,cols=3] 
+
+|===
+|Name
+|Description
+|Requirements
+
+|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
+|Test your Command Line skills here!
+|Command-line & Internet
+
+|https://www.hackthebox.eu/[hackthebox]
+|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
+|Browser (with Javascript console) & Internet
+
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|Browser & Internet
 |===
 
 '''
