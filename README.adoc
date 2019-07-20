@@ -118,6 +118,7 @@ $ gotour
  * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
 
 ==== Distributed Version Control
+ * https://ohshitgit.com/[Oh shit, git!]
  * http://think-like-a-git.net/[Think Like (a) Git]
 
 ==== System Design
