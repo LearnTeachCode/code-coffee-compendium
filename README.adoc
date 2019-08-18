@@ -121,6 +121,9 @@ $ gotour
  * https://ohshitgit.com/[Oh shit, git!]
  * http://think-like-a-git.net/[Think Like (a) Git]
 
+==== Command-Line Utilities
+ * https://cookiecutter.readthedocs.io/en/latest/readme.html[Cookiecutter]: A command-line utility for creating boilerplate project files from cookiecutters (project templates).
+
 ==== System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
 
