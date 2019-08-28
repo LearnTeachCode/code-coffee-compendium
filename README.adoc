@@ -15,6 +15,8 @@ Note: this README is written in the AsciiDoc markup language (see https://asciid
 
 === Learn a Tech Stack
 
+Learn a tech stack by doing interactive tutorials. Tech stacks can include, but are not limited to, programming languages (s.a., Python, Javascript, Golang, SQL) or frameworks (s.a., Node, React, Sass).
+
 [%header,cols=3] 
 
 |===
@@ -64,6 +66,8 @@ $ gotour
 
 === Capture the Flag (CTF) 
 
+Capture the Flag (CTF) challenges for learning security concepts.
+
 [%header,cols=3] 
 
 |===
@@ -87,6 +91,8 @@ $ gotour
 '''
 
 == References
+
+Cheatsheets, reference material for tech stacks & computer science concepts.
 
 === Algorithms, Data Structures, & Big O Notation
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
