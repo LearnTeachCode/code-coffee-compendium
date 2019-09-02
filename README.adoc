@@ -37,18 +37,11 @@ Learn a tech stack by doing interactive tutorials. Tech stacks can include, but 
 |Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
 
 |https://tour.golang.org/[golang]
-a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
+a|A Tour of Go, the Google scripting language. If you'd like to run the tutorial locally, first install https://golang.org/doc/install[Go], then run:
 ----
-$ brew install go
-$ cat >> .bashrc << 'EOF'
-$ export GOPATH="${HOME}/go"
-$ export GOROOT="$(brew --prefix golang)/libexec"
-$ export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
-$ EOF
-$ source .bashrc
-$ go get golang.org/x/tour/gotour
-$ gotour
+$ go get golang.org/x/tour
 ----
+This will place the tour binary in your workspace's bin directory.
 |Browser & Internet
 
 |https://chartio.com/learn/sql/[PostgreSQL]
