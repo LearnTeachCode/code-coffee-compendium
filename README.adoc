@@ -92,20 +92,23 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
 
-=== AI/Machine Learning
+=== Command Line
+ * `$ vimtutor`
+
+=== Data Science
+ * https://github.com/MrMimic/data-scientist-roadmap[Data Science Roadmap]
+ 
+==== Math & Statistics
+ * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
+
+==== Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
  ** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
  * https://keras.io/[keras]
 
-=== Command Line
- * `$ vimtutor`
-
 === Information Security (InfoSec)
  * https://www.hacksplaining.com/[Hacksplaining]
-
-=== Math/Statistics
- * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
