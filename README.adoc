@@ -98,6 +98,9 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 === Data Science
  * https://github.com/MrMimic/data-scientist-roadmap[Data Science Roadmap]
 
+==== Linear Algebra
+ * https://github.com/fastai/numerical-linear-algebra[Computational Linear Algebra]
+
 ==== Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
