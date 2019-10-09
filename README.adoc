@@ -143,7 +143,6 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 === Information Security (InfoSec)
  * https://www.hacksplaining.com/[Hacksplaining]
 
-=======
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
 
