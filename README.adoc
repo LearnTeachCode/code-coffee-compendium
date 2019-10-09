@@ -92,6 +92,9 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
 
+=== Career Advice
+ ** https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
+
 === Command Line
  * `$ vimtutor`
 
