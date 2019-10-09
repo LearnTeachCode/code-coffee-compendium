@@ -81,6 +81,24 @@ Capture the Flag (CTF) challenges for learning security concepts.
 |Browser & Internet
 |===
 
+=== Interactive Sandbox Environments
+
+[%header,cols=3] 
+
+|===
+|Name
+|Description
+|Requirements
+
+|https://chinook.ml/[chinook.ml]
+|A sandbox environment for trying out PostgreSQL queries. Has a preloaded database to play around with.
+|Browser & Internet
+
+|https://repl.it/[repl.it]
+|Test out code without opening an IDE. Large selection of popular languages to work with. Just code it and run it.
+|Browser & Internet
+|===
+
 '''
 
 == References
@@ -89,6 +107,7 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 
 === Algorithms, Data Structures, & Big O Notation
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
+ * https://www.toptal.com/developers/sorting-algorithms[Sorting Algorithms Animations]
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
 
