@@ -1,4 +1,4 @@
-= baldwinpark-code-and-coffee image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com]
+= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com]
 :toc: macro
 :toclevels: 4
 
@@ -7,12 +7,18 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 toc::[float="left"]
 
 == Introduction
-Welcome to the Baldwin Park code & coffee GitHub repository! This page serves as a resource compendium for facilitating frequently asked questions from our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/baldwinpark-code-and-coffee/issues/new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
+Welcome to the Code & Coffee Compendium GitHub repository! Maintained by the Baldwin Park study group, this page serves as a resource compendium for facilitating frequently asked questions from our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/code-coffee-compendium/issues/new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
 
 Note: this README is written in the AsciiDoc markup language (see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Syntax Quick Reference]).
 
-== Interactive tutorials
-[cols="4,14,4a", options="header", frame=none, grid=none]
+== Interactive Lessons & Challenges
+
+=== Learn a Tech Stack
+
+Learn a tech stack by doing interactive tutorials. Tech stacks can include, but are not limited to, programming languages (s.a., Python, Javascript, Golang, SQL) or frameworks (s.a., Node, React, Sass).
+
+[%header,cols=3] 
+
 |===
 |Name
 |Description
@@ -30,73 +36,114 @@ Note: this README is written in the AsciiDoc markup language (see https://asciid
 |Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
 |Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
 
-|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
-|Test your Command Line skills here!
-|Command-line & Internet
-
-|https://ethernaut.zeppelin.solutions/[Ethernaut]
-|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
-|Browser & Internet
-
-|https://cryptozombies.io[CryptoZombies]
-|Learn to code Ethereum dApps by building your own game.
-|Browser & Internet
-
 |https://tour.golang.org/[golang]
-a|A Tour of Go, the Google scripting language. If you want to run the tutorial locally, first install https://golang.org/doc/install[Go] then run:
+a|A Tour of Go, the Google scripting language. If you'd like to run the tutorial locally, first install https://golang.org/doc/install[Go], then run:
 ----
-$ brew install go
-$ cat >> .bashrc << 'EOF'
-$ export GOPATH="${HOME}/go"
-$ export GOROOT="$(brew --prefix golang)/libexec"
-$ export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"
-$ EOF
-$ source .bashrc
-$ go get golang.org/x/tour/gotour
-$ gotour
+$ go get golang.org/x/tour
 ----
+This will place the tour binary in your workspace's bin directory.
 |Browser & Internet
 
 |https://chartio.com/learn/sql/[PostgreSQL]
 |An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
 |Browser & Internet
 
-|https://www.hackthebox.eu/[hackthebox]
-|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
-|Browser (with Javascript console) & Internet
-
 |https://regexone.com/[RegexOne]
 |Learn Regular Expressions with simple, interactive exercises.
 |Browser & Internet
 
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
+|Browser & Internet
+|===
+
+=== Capture the Flag (CTF) 
+
+Capture the Flag (CTF) challenges for learning security concepts and developing command line skills.
+
+[%header,cols=3] 
+
+|===
+|Name
+|Description
+|Requirements
+
+|https://cmdchallenge.com/[cmdchallenge]
+|A web application that presents a small shell for command line challenges.
+|Browser & Internet
+
+|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
+|Test your Command Line skills here!
+|Command-line & Internet
+
+|https://www.hackthebox.eu/[hackthebox]
+|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
+|Browser (with Javascript console) & Internet
+
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|Browser & Internet
+|===
+
+=== Interactive Sandbox Environments
+
+[%header,cols=3] 
+
+|===
+|Name
+|Description
+|Requirements
+
+|https://chinook.ml/[chinook.ml]
+|A sandbox environment for trying out PostgreSQL queries. Has a preloaded database to play around with.
+|Browser & Internet
+
+|https://repl.it/[repl.it]
+|Test out code without opening an IDE. Large selection of popular languages to work with. Just code it and run it.
+|Browser & Internet
 |===
 
 '''
 
 == References
 
+Cheatsheets, reference material for tech stacks & computer science concepts.
+
 === Algorithms, Data Structures, & Big O Notation
  * https://imgur.com/gallery/voutF[Sorting Algorithms Visualized]
+ * https://www.toptal.com/developers/sorting-algorithms[Sorting Algorithms Animations]
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
  * http://jeffe.cs.illinois.edu/teaching/algorithms/[A Free Advanced Comprehensive Algorithm Textbook]
 
-=== AI/Machine Learning
+=== Career Advice
+ ** https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
+
+=== Command Line
+ * `$ vimtutor`
+
+=== Data Science
+ * https://github.com/MrMimic/data-scientist-roadmap[Data Science Roadmap]
+
+==== Discrete Math
+ * http://mfleck.cs.illinois.edu/building-blocks/index-sp2018.html[An Undergrad Level Introduction to Discrete Math] 
+
+==== Linear Algebra
+ * https://github.com/fastai/numerical-linear-algebra[Computational Linear Algebra]
+
+==== Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
  ** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
  * https://keras.io/[keras]
 
-=== Command Line
- * `$ vimtutor`
+==== Statistics
+ * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
 
 === Information Security (InfoSec)
  * https://www.hacksplaining.com/[Hacksplaining]
 
-=== Math/Statistics
- * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
- * http://mfleck.cs.illinois.edu/building-blocks/index-sp2018.html[An Undergrad Level Introduction to Discrete Math] 
-
+=======
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
 
@@ -107,15 +154,24 @@ $ gotour
  * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
 
 ==== Distributed Version Control
+ * https://ohshitgit.com/[Oh shit, git!]
  * http://think-like-a-git.net/[Think Like (a) Git]
 
+==== Command-Line Utilities
+ * https://cookiecutter.readthedocs.io/en/latest/readme.html[Cookiecutter]: A command-line utility for creating boilerplate project files from cookiecutters (project templates).
+
+==== Open Source
+ * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]
+ 
 ==== System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
 
 === Web Development
- * Django
+
+==== Django
  ** https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
- * Ruby on Rails
+
+==== Ruby on Rails
  ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
  ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
 
