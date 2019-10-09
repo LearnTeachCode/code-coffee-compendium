@@ -155,6 +155,9 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 ==== Command-Line Utilities
  * https://cookiecutter.readthedocs.io/en/latest/readme.html[Cookiecutter]: A command-line utility for creating boilerplate project files from cookiecutters (project templates).
 
+==== Open Source
+ * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]
+ 
 ==== System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
 
