@@ -114,6 +114,7 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
  * https://www.toptal.com/developers/sorting-algorithms[Sorting Algorithms Animations]
  * https://github.com/TheAlgorithms/Python[All algorithms implemented in Python (for education)]
  * http://cooervo.github.io/Algorithms-DataStructures-BigONotation/index.html[big O cheat sheet]
+ * http://jeffe.cs.illinois.edu/teaching/algorithms/[A Free Advanced Comprehensive Algorithm Textbook]
 
 === Career Advice
  ** https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
@@ -123,6 +124,9 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 
 === Data Science
  * https://github.com/MrMimic/data-scientist-roadmap[Data Science Roadmap]
+
+==== Discrete Math
+ * http://mfleck.cs.illinois.edu/building-blocks/index-sp2018.html[An Undergrad Level Introduction to Discrete Math] 
 
 ==== Linear Algebra
  * https://github.com/fastai/numerical-linear-algebra[Computational Linear Algebra]
