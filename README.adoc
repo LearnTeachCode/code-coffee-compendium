@@ -59,7 +59,7 @@ This will place the tour binary in your workspace's bin directory.
 
 === Capture the Flag (CTF) 
 
-Capture the Flag (CTF) challenges for learning security concepts.
+Capture the Flag (CTF) challenges for learning security concepts and developing command line skills.
 
 [%header,cols=3] 
 
@@ -67,6 +67,10 @@ Capture the Flag (CTF) challenges for learning security concepts.
 |Name
 |Description
 |Requirements
+
+|https://cmdchallenge.com/[cmdchallenge]
+|A web application that presents a small shell for command line challenges.
+|Browser & Internet
 
 |http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
 |Test your Command Line skills here!
