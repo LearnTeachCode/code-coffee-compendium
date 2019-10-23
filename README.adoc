@@ -32,6 +32,10 @@ Learn a tech stack by doing interactive tutorials. Tech stacks can include, but 
 |Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
 |Browser & Internet
 
+|https://github.com/jlord/git-it-electron/[git-it]
+|Learn Git and GitHub basics.
+|Download the https://github.com/jlord/git-it-electron/releases[latest desktop app release].
+
 |https://nodeschool.io[NodeSchool]
 |Workshops that teach web software skills with Node.js.
 |Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
