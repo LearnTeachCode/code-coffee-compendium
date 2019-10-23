@@ -160,7 +160,10 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 
 ==== Open Source
  * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]
- 
+
+==== Pair Programming
+ * https://gist.github.com/rouzbeh84/4bafc9fe4fe02edf506d11997c4674b0[Resources for pair programming remotely and on site]
+
 ==== System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
 
