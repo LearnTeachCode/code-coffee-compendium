@@ -134,7 +134,6 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 ==== Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
  * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
- ** https://www.youtube.com/watch?v=2FmcHiLCwTU&vl=en[TensorFlow in 5 Minutes (tutorial) by Siraj Raval]
  * https://keras.io/[keras]
 
 ==== Statistics
