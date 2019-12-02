@@ -138,6 +138,7 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 
 ==== Linear Algebra
  * https://github.com/fastai/numerical-linear-algebra[Computational Linear Algebra]
+ * http://arminstraub.com/teaching/linearalgebra-fall14[Introduction to Applied Linear Algebra]
 
 ==== Machine Learning
  * https://www.deeplearningbook.org/[The Deep Learning Textbook]
@@ -146,12 +147,14 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 
 ==== Statistics
  * http://www-bcf.usc.edu/~gareth/ISL/[An Introduction to Statistical Learning (with Applications in R)]
+ * https://daviddalpiaz.github.io/stat400sp18/[Introduction to Discrete and Continious Probability and Statistics]
 
 === Information Security (InfoSec)
  * https://www.hacksplaining.com/[Hacksplaining]
 
 === Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+ * https://inst.eecs.berkeley.edu/~cs61a/sp18/[Rigorous Introductory Course to Python and Computer Science]
 
 === Software Engineering
 
@@ -183,6 +186,10 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 ==== Ruby on Rails
  ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
  ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
+ 
+==== Flask
+ ** https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world[Flask Mega Tutorial by Miguel Grinberg]
+ ** https://flask.palletsprojects.com/en/1.1.x/tutorial/[Offical Flask Tutorial from the Flask Documentation]
 
 '''
 
