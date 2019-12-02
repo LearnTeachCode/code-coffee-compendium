@@ -187,9 +187,9 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
  ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
  ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
  
- ==== Flask
-  ** https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world[Flask Mega Tutorial by Miguel Grinberg]
-  ** https://flask.palletsprojects.com/en/1.1.x/tutorial/[Offical Flask Tutorial from the Flask Documentation]
+==== Flask
+ ** https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world[Flask Mega Tutorial by Miguel Grinberg]
+ ** https://flask.palletsprojects.com/en/1.1.x/tutorial/[Offical Flask Tutorial from the Flask Documentation]
 
 '''
 
