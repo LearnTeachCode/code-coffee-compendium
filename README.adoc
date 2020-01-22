@@ -20,12 +20,10 @@ Learn a tech stack by doing interactive tutorials. Tech stacks can include, but 
 [%header,cols=3] 
 
 |===
-|Name
-|Description
-|Requirements
+|Name |Description |Requirements
 
 |https://www.freecodecamp.org/[freeCodeCamp.org]
-|Learn to code. Build projects. Earn certifications.
+|Learn web development. Build projects. Earn certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Libraries, Data Visualization, APIs and Microservices, and Information Security and Quality Assurance.
 |Browser & Internet
 
 |https://www.codecademy.com/[Codecademy]
@@ -38,10 +36,6 @@ Learn a tech stack by doing interactive tutorials. Tech stacks can include, but 
 
 |https://nodeschool.io[NodeSchool]
 |Workshops that teach web software skills with Node.js.
-|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
-
-|http://exercism.io[Exercism]
-|Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
 |Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
 
 |https://tour.golang.org/[golang]
@@ -65,6 +59,26 @@ This will place the tour binary in your workspace's bin directory.
 |Browser & Internet
 |===
 
+=== Interactive Coding Challenges
+
+[%header,cols=3] 
+
+|===
+|Name |Description |Requirements
+
+|http://exercism.io[Exercism]
+|Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
+|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
+
+|https://leetcode.com/[LeetCode]
+|800+ coding challenges to prepare for technical interviews
+|Browser & Internet
+
+|https://github.com/donnemartin/interactive-coding-challenges[interactive-coding-challenges]
+|120+ continually updated, interactive, and test-driven coding challenges, with Anki flashcards.
+|https://jupyter.org/install[Jupyter Notebook]
+|===
+
 === Capture the Flag (CTF) 
 
 Capture the Flag (CTF) challenges for learning security concepts and developing command line skills.
@@ -72,13 +86,7 @@ Capture the Flag (CTF) challenges for learning security concepts and developing 
 [%header,cols=3] 
 
 |===
-|Name
-|Description
-|Requirements
-
-|https://cmdchallenge.com/[cmdchallenge]
-|A web application that presents a small shell for command line challenges.
-|Browser & Internet
+|Name |Description |Requirements
 
 |http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
 |Test your Command Line skills here!
