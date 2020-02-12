@@ -161,6 +161,7 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
  * https://www.hacksplaining.com/[Hacksplaining]
 
 === Python
+ * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
  * https://inst.eecs.berkeley.edu/~cs61a/sp18/[Rigorous Introductory Course to Python and Computer Science]
 
