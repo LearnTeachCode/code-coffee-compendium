@@ -168,6 +168,7 @@ Cheatsheets, reference material for tech stacks & computer science concepts.
 === Software Engineering
 
 ==== Design Patterns
+ * https://www.oodesign.com[Object oriented design patterns]
  * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
  * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
 
