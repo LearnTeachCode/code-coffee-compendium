@@ -20,6 +20,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "docs: update github pages"
-          body: This is an auto-generated PR
+          title: "docs: update github pages"
+          body: This is an auto-generated PR to update github pages
           labels: docs
+          reviewers: cynful, capsulecorplab
           branch: gh-pages
