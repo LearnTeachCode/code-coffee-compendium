@@ -1,0 +1,57 @@
+= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
+:toc: left
+:toclevels: 4
+:source-highlighter: coderay
+
+<<index.adoc#,Return to the Homepage>>
+
+image:./logo/code&coffeelogo.svg[logo,246,139]
+
+toc::[]
+
+
+== Discussions and Articles
+
+== Picking Up a Language or Framework
+When you're just starting off, learning to code might seem a bit overwhelming. There are dozens of programming languages and coding frameworks out there for you to choose from; all of them have similarities, and differences that make them unique. Programmers often select just one programming language or framework to help them meet their goals. If you're reading this, it's likely that you've got some goals of your own! Use the following flow-chart diagram to help you pick the right tool for your needs. When you've reached a terminal in the diagram (i.e. the end of the path), click on the programming language to learn more about it.
+
+[%interactive]
+[plantuml, languages, svg]
+.....
+@startuml
+
+if (Are you a...) then (Coder-In-Training)
+  if (Which best describes your goal?) then (I want to make something awesome!)
+    :Python, Java, C++, Ruby;
+    end
+  else (Make something awesome!)
+    if (Are you thinking of an app or a game?) then (I want to make games!)
+      :Unity, PyGame, LÖVE;
+      end
+    else (I want to make an app!)
+      if (What platform are you using?) then (Desktop)
+        :Python, Java, JavaScript, C++, Ruby;
+        end
+      else (Mobile)
+        :Swift, Java;
+        end
+      endif
+    endif
+  endif 
+else (Professional Coder)
+  if (What are you looking for?) then (Gimme a challenge!)
+    :Haskell, R, Caml;
+    end
+  else (I want to try a new framework)
+    if (What kind of work do you do?) then (App Development)
+      :Django, NodeJS, React;
+      end 
+    else (Web Development)
+      :Swift, Java;
+      end
+    endif
+  endif
+endif
+
+@enduml
+.....

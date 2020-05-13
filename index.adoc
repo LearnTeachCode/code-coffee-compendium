@@ -1,0 +1,35 @@
+= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
+
+image:./logo/code&coffeelogo.svg[logo,246,139]
+
+== Introduction
+Welcome to the LearnTeachCode Code & Coffee Compendium! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this page serves as a resource compendium for facilitating frequently asked questions of the form "Where should I go to learn <insert computer science topic>" at our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/code-coffee-compendium/issues/
+new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
+
+This page was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
+
+Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
+
+[%header,cols=2]
+
+|===
+
+|Page Name |Description
+
+a|
+=== <<references.adoc#,References>>
+|Programming Languages, Frameworks, Computer Science Topics, and a LOT MORE!
+
+a|
+=== <<discussions.adoc#, Discussions and Articles>>
+|Dig deeper into some of your burning questions.
+
+a|
+=== <<tutorials.adoc#,Tutorials>>
+|Choose from an incredible list of tutorials, all curated by the Learn Teach Code community.
+
+a|
+=== <<how-to.adoc#,How-To-Guides>>
+|Custom How-To-Guides written by the Learn Teach Code community.
+
+|===
