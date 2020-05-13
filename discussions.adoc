@@ -9,7 +9,6 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 toc::[]
 
-
 == Discussions and Articles
 
 == Picking Up a Language or Framework

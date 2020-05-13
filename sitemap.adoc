@@ -1,0 +1,54 @@
+= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
+
+<<index.adoc#,Return to the Homepage>>
+
+image:./logo/code&coffeelogo.svg[logo,246,139]
+
+== Sitemap
+
+[plantuml, sitemap, svg]
+----
+@startuml
+[*] --> Homepage
+
+Homepage -left-> References
+Homepage -left-> Tutorials
+Homepage -> Guides
+Homepage -> Discussions
+
+References -down-> Languages
+References -down-> Frameworks
+References -down-> CLI
+References -down-> CS
+References -down-> Careers
+References -down-> VersionControl
+
+Languages -down-> ObjectOriented 
+Languages -down-> Functional
+Languages -down-> Procedural
+
+Frameworks -down-> WebDev
+Frameworks -down-> MobileDev
+Frameworks -down-> GameDev
+Frameworks -down-> nix
+Frameworks -down-> EmbeddedSystems
+
+Careers -down-> SoftwareEngineering
+Careers -down-> DataScience
+Careers -down-> ElectricalEngineering
+Careers -down-> AIML
+Careers -down-> GameDev
+Careers -down-> InfoSec
+
+CS -down-> Algorithms
+CS -down-> DataStructures
+CS -down-> ComputerArchitecture
+CS -down-> DiscreteMath
+CS -down-> LinearAlgebra
+CS -down-> Statistics
+CS -down-> Logic
+
+Discussions -down-> PickingUpANewFrameWorkOrLanguage
+Discussions -down-> ChoosingTheRightTextEditorOrIDE
+@enduml
+----
