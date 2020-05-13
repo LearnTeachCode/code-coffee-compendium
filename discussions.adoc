@@ -9,11 +9,12 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 toc::[]
 
-
 == Discussions and Articles
 
 == Picking Up a Language or Framework
-When you're just starting off, learning to code might seem a bit overwhelming. There are dozens of programming languages and coding frameworks out there for you to choose from; all of them have similarities, and differences that make them unique. Programmers often select just one programming language or framework to help them meet their goals. If you're reading this, it's likely that you've got some goals of your own! Use the following flow-chart diagram to help you pick the right tool for your needs. When you've reached a terminal in the diagram (i.e. the end of the path), click on the programming language to learn more about it.
+Whether you're a brand new coder or a veteran, picking up a new tool can seem overwhelming. There are dozens of programming languages and coding frameworks out there for you to choose from; all of them have similarities, as well as differences that make them unique. Programmers often select just one programming language or framework to help them meet their goals. If you're reading this, it's likely that you've got some goals of your own! Use the following flow-chart diagram to help you pick the right tool for your needs. When you've reached a terminal in the diagram (i.e. the end of the path), click on the programming language to learn more about it.
+
+_Note: This diagram does not offer an exhaustive list of frameworks and languages!_
 
 [%interactive]
 [plantuml, languages, svg]
@@ -21,33 +22,33 @@ When you're just starting off, learning to code might seem a bit overwhelming. T
 @startuml
 
 if (Are you a...) then (Coder-In-Training)
-  if (Which best describes your goal?) then (I want to make something awesome!)
-    :Python, Java, C++, Ruby;
+  if (Which best describes your goal?) then (I want to to learn something new!)
+    :[[https://learnteachcode.org/code-coffee-compendium/references.html#python Python,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#java Java,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#cplusplus C++,]] [[[[https://learnteachcode.org/code-coffee-compendium/references.html#ruby Ruby]];
     end
   else (Make something awesome!)
     if (Are you thinking of an app or a game?) then (I want to make games!)
-      :Unity, PyGame, LÖVE;
+      :[[https://learnteachcode.org/code-coffee-compendium/references.html#unity Unity]], [[https://learnteachcode.org/code-coffee-compendium/references.html#pygame PyGame,]] [[[[https://learnteachcode.org/code-coffee-compendium/references.html#love LÖVE]];
       end
     else (I want to make an app!)
       if (What platform are you using?) then (Desktop)
-        :Python, Java, JavaScript, C++, Ruby;
+        :[[https://learnteachcode.org/code-coffee-compendium/references.html#python Python,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#java Java,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#javascript JavaScript,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#cplusplus C++,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#ruby Ruby]];
         end
       else (Mobile)
-        :Swift, Java;
+        :[[https://learnteachcode.org/code-coffee-compendium/references.html#swift Swift,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#java Java]];
         end
       endif
     endif
   endif 
 else (Professional Coder)
   if (What are you looking for?) then (Gimme a challenge!)
-    :Haskell, R, Caml;
+    :[[https://learnteachcode.org/code-coffee-compendium/references.html#haskell Haskell,]] R, Caml;
     end
   else (I want to try a new framework)
     if (What kind of work do you do?) then (App Development)
-      :Django, NodeJS, React;
+      :[[https://learnteachcode.org/code-coffee-compendium/references.html#django Django,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#nodejs NodeJS,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#react React]];
       end 
     else (Web Development)
-      :Swift, Java;
+      :[[https://learnteachcode.org/code-coffee-compendium/references.html#swift Swift,]] [[[[https://learnteachcode.org/code-coffee-compendium/references.html#java Java]];
       end
     endif
   endif
@@ -55,3 +56,59 @@ endif
 
 @enduml
 .....
+
+
+== Choosing a Text Editor or IDE
+
+Choosing the right editor for the job often comes down to personal preference, but can in many cases be absolutely necessary for the type of project you want to create. Let's discuss two types of code editors: plain text editors and IDEs (Integrated Development Environments). A plain text editor is, simply put, a program that is used to read and write text to a file on your computer. An IDE, on the other hand, typically features a plain text editor along with a number of plug-ins and modules to assist coders as they develop their projects. Today, there are dozens text editors and IDEs which are popularly used in the tech industry. We'll be looking at a few of the most common.
+
+=== Plain Text Editors
+==== Notepad++
+
+image::https://notepad-plus-plus.org/assets/images/notepad4ever.gif[title="Notepad++", 200, 200, float="left"]
+
+Notepad++ (pronounced Notepad Plus-Plus) is one of the most popular plain text editors, used by students and professionals alike. Released as free software, Notepad++ features syntax highlighting for nearly 80 programming languages. Notepad++ also promotes itself as  "green" software, as it has be optimized to reduce electricity use, and thus reduces CO2 levels in the environment.
+
+https://notepad-plus-plus.org[Download Notepad++ here]
+
+==== Emacs or Vim
+
+image::https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fef%2FEmacs_Dired_buffers.png&f=1&nofb=1[title="Emacs", 200, 200, float="left"]
+
+Power users might be interested in the text editors Emacs or Vim. Emacs is a text editor hailed for its extensibility and customization features. Originally released in 1976, Emacs has an active open source developer community who consistently updates the program, keeping it relevant for years to come. Vim features an extensible text based interface and remains a standard editor on Unix based operating systems.
+
+https://www.gnu.org/software/emacs/[Download Emacs here]
+https://www.vim.org[Download Vim here]
+
+==== Visual Studio Code
+
+image::https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevblogs.microsoft.com%2Fpython%2Fwp-content%2Fuploads%2Fsites%2F12%2F2019%2F06%2FJune19-PlotViewer-1024x565.gif&f=1&nofb=1[title="Visual Studio Code", 200, 200, float="left"]
+
+Visual Studio Code (often abbreviated as VS Code) is one of the rising stars in the software development world. VS Code provides programmers the best of both worlds; while it is a true plain text editor, it can be customized with community developed extensions to function very similar to an IDE. The codebase for VS Code is managed by a community of developers who are working every day to make VS Code the best that it can be. 
+
+https://code.visualstudio.com[Download VS Code here]
+
+=== IDEs
+==== IntelliJ
+
+image::https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1@2x.png[title="IntelliJ", 200, 200, float="left"]
+
+IntelliJ is a Java IDE created by JetBrains. IntelliJ comes in two flavors: a proprietary and a community edition. Each edition comes with its own set of features, with the community edition being a bit more limited. IntelliJ is a common IDE used by college computer science students learning Java. IntelliJ can be extended to over a dozen additional programming languages using plug-ins.
+
+https://www.jetbrains.com/idea/[Download IntelliJ here]
+
+==== PyCharm
+
+image::https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.jetbrains.com%2Fpycharm%2Fimg%2Fscreenshots%2FcomplexLook%402x.jpg&f=1&nofb=1[title="PyCharm", 200, 200, float="left"]
+
+PyCharm is another IDE created by JetBrains, focused on projects written in the Python programming language. Marketed as an IDE for professional Python developers, the software comes with the ability to quickly set up and maintain Python virtual environments. PyCharm also makes managing multiple versions of Python on a system a piece of cake! 
+
+https://www.jetbrains.com/pycharm/[Download PyCharm here]
+
+==== Eclipse
+
+image::https://www.eclipse.org/pdt/img/shot5-min.png[title="Eclipse", 200, 200, float="left"]
+
+Eclipse is one of the more general purpose IDEs available to developers. Eclipse was designed to make developing desktop and web applications fast and easy. Typically developers who use Eclipse code their projects in PHP or Java. Eclipse is open source software and is maintained by a dedicated community of developers.
+
+https://www.eclipse.org[Download Eclipse here]

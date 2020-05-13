@@ -1,0 +1,43 @@
+@startuml
+[*] --> Homepage
+
+Homepage -left-> References
+Homepage -left-> Tutorials
+Homepage -> Guides
+Homepage -> Discussions
+
+References -down-> Languages
+References -down-> Frameworks
+References -down-> CLI
+References -down-> CS
+References -down-> Careers
+References -down-> VersionControl
+
+Languages -down-> ObjectOriented 
+Languages -down-> Functional
+Languages -down-> Procedural
+
+Frameworks -down-> WebDev
+Frameworks -down-> MobileDev
+Frameworks -down-> GameDev
+Frameworks -down-> nix
+Frameworks -down-> EmbeddedSystems
+
+Careers -down-> SoftwareEngineering
+Careers -down-> DataScience
+Careers -down-> ElectricalEngineering
+Careers -down-> AIML
+Careers -down-> GameDev
+Careers -down-> InfoSec
+
+CS -down-> Algorithms
+CS -down-> DataStructures
+CS -down-> ComputerArchitecture
+CS -down-> DiscreteMath
+CS -down-> LinearAlgebra
+CS -down-> Statistics
+CS -down-> Logic
+
+Discussions -down-> PickingUpANewFrameWorkOrLanguage
+Discussions -down-> ChoosingTheRightTextEditorOrIDE
+@enduml
