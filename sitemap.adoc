@@ -6,7 +6,7 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 == Sitemap
 
-[plantuml, svg]
+[plantuml, sitemap, svg]
 ----
 @startuml
 hide empty description
