@@ -3,9 +3,8 @@ hide empty description
 discussions -down-> DiscussionsandArticles
 discussions -down-> PickingUpaLanguageorFramework
 discussions -down-> ChoosingaTextEditororIDE
-howto -down-> References
+howto -down-> CommunityHowToGuides
 index -down-> Introduction
-README -down-> Introduction
 references -down-> References
 references -down-> ProgrammingLanguages
 references -down-> Frameworks
