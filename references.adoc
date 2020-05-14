@@ -214,3 +214,17 @@ a|
 === Version Control
  * https://ohshitgit.com/[Oh shit, git!]
  * http://think-like-a-git.net/[Think Like (a) Git]
+
+=== Python
+ * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
+ * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+ * https://inst.eecs.berkeley.edu/~cs61a/sp18/[Rigorous Introductory Course to Python and Computer Science]
+
+=== Open Source
+ * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]
+
+=== Pair Programming
+ * https://gist.github.com/rouzbeh84/4bafc9fe4fe02edf506d11997c4674b0[Resources for pair programming remotely and on site]
+
+=== System Design
+ * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.

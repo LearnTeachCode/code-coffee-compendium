@@ -1,3 +1,4 @@
+
 = code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
 :toc: left
 :toclevels: 4
@@ -9,4 +10,113 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 toc::[]
 
-== Tutorials
+== Tutorials and Challenges
+
+== Interactive Lessons & Challenges
+
+=== Learn a Tech Stack
+
+Learn a tech stack by doing interactive tutorials. Tech stacks can include, but are not limited to, programming languages (s.a., Python, Javascript, Golang, SQL) or frameworks (s.a., Node, React, Sass).
+
+[%header,cols=3] 
+
+|===
+|Name |Description |Requirements
+
+|https://www.freecodecamp.org/[freeCodeCamp.org]
+|Learn web development. Build projects. Earn certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Libraries, Data Visualization, APIs and Microservices, and Information Security and Quality Assurance.
+|Browser & Internet
+
+|https://www.codecademy.com/[Codecademy]
+|Free coding classes in 12 different programming languages including Python, Java, JavaScript (jQuery, AngularJS, React.js), Ruby, SQL, and Sass, as well as markup languages HTML and CSS.
+|Browser & Internet
+
+|https://github.com/jlord/git-it-electron/[git-it]
+|Learn Git and GitHub basics.
+|Download the https://github.com/jlord/git-it-electron/releases[latest desktop app release].
+
+|https://nodeschool.io[NodeSchool]
+|Workshops that teach web software skills with Node.js.
+|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
+
+|https://tour.golang.org/[golang]
+a|A Tour of Go, the Google scripting language. If you'd like to run the tutorial locally, first install https://golang.org/doc/install[Go], then run:
+----
+$ go get golang.org/x/tour
+----
+This will place the tour binary in your workspace's bin directory.
+|Browser & Internet
+
+|https://chartio.com/learn/sql/[PostgreSQL]
+|An interactive SQLBox for you to follow along and play with writing queries. The SQLBox takes your input and runs it against a live PostgreSQL database that Chartio is hosting.
+|Browser & Internet
+
+|https://regexone.com/[RegexOne]
+|Learn Regular Expressions with simple, interactive exercises.
+|Browser & Internet
+
+|https://cryptozombies.io[CryptoZombies]
+|Learn to code Ethereum dApps by building your own game.
+|Browser & Internet
+|===
+
+=== Interactive Coding Challenges
+
+[%header,cols=3] 
+
+|===
+|Name |Description |Requirements
+
+|http://exercism.io[Exercism]
+|Coding exercises, with test-driven development (TDD) style workflow, on 48 different programming languages.
+|Command-line, https://nodejs.org/en/[Node.js], & a Text-Editor
+
+|https://leetcode.com/[LeetCode]
+|800+ coding challenges to prepare for technical interviews
+|Browser & Internet
+
+|https://github.com/donnemartin/interactive-coding-challenges[interactive-coding-challenges]
+|120+ continually updated, interactive, and test-driven coding challenges, with Anki flashcards.
+|https://jupyter.org/install[Jupyter Notebook]
+|===
+
+=== Capture the Flag (CTF) 
+
+Capture the Flag (CTF) challenges for learning security concepts and developing command line skills.
+
+[%header,cols=3] 
+
+|===
+|Name |Description |Requirements
+
+|http://overthewire.org/wargames/bandit/bandit0.html[OverTheWire]
+|Test your Command Line skills here!
+|Command-line & Internet
+
+|https://www.hackthebox.eu/[hackthebox]
+|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
+|Browser (with Javascript console) & Internet
+
+|https://ethernaut.zeppelin.solutions/[Ethernaut]
+|A Web3/Solidity based wargame, inspired by https://overthewire.org[OverTheWire], played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+|Browser & Internet
+|===
+
+=== Interactive Sandbox Environments
+
+[%header,cols=3] 
+
+|===
+|Name
+|Description
+|Requirements
+
+|https://chinook.ml/[chinook.ml]
+|A sandbox environment for trying out PostgreSQL queries. Has a preloaded database to play around with.
+|Browser & Internet
+
+|https://repl.it/[repl.it]
+|Test out code without opening an IDE. Large selection of popular languages to work with. Just code it and run it.
+|Browser & Internet
+|===
+

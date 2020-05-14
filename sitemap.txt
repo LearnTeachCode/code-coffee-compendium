@@ -1,5 +1,3 @@
-@startuml
-hide empty description
 discussions -down-> DiscussionsandArticles
 discussions -down-> PickingUpaLanguageorFramework
 discussions -down-> ChoosingaTextEditororIDE
@@ -15,4 +13,3 @@ references -down-> CareersinTech
 sitemap -down-> Sitemap
 tutorials -down-> TutorialsandChallenges
 tutorials -down-> InteractiveLessons&Challenges
-@enduml

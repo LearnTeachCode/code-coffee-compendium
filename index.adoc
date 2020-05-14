@@ -21,11 +21,11 @@ a|
 |Programming Languages, Frameworks, Computer Science Topics, and a LOT MORE!
 
 a|
-=== <<discussions.adoc#, Discussions and Articles>>
+=== <<discussions.adoc#,Discussions and Articles>>
 |Dig deeper into some of your burning questions.
 
 a|
-=== <<tutorials.adoc#,Tutorials>>
+=== <<tutorials.adoc#,Tutorials and Challenges>>
 |Choose from an incredible list of tutorials, all curated by the Learn Teach Code community.
 
 a|
@@ -33,3 +33,5 @@ a|
 |Custom How-To-Guides written by the Learn Teach Code community.
 
 |===
+
+<<sitemap.adoc#,Click here to view the sitemap>>
