@@ -6,24 +6,4 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 
 == Sitemap
 
-[plantuml, sitemap, svg]
-----
-@startuml
-hide empty description
-discussions -down-> DiscussionsandArticles
-discussions -down-> PickingUpaLanguageorFramework
-discussions -down-> ChoosingaTextEditororIDE
-howto -down-> References
-index -down-> Introduction
-README -down-> Introduction
-references -down-> References
-references -down-> ProgrammingLanguages
-references -down-> Frameworks
-references -down-> CommandLine
-references -down-> ComputerScienceandMath
-references -down-> CareersinTech
-sitemap -down-> Sitemap
-tutorials -down-> TutorialsandChallenges
-tutorials -down-> InteractiveLessons&Challenges
-@enduml
-----
+plantuml::sitemap.puml["sitemap", "svg"]

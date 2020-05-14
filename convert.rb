@@ -10,8 +10,7 @@ require 'asciidoctor-diagram'
 
 sitemappuml = File.open("sitemap.puml", "w")
 
-sitemappuml.write "@startuml\n"
-sitemappuml.write "hide empty description\n"
+sitemappuml.write "@startuml\nhide empty description\n"
 
 Dir["./*.adoc"].each { |x|
   f = File.open(x, "r")
