@@ -9,6 +9,11 @@ howto -down-> CommunityHowToGuides
 howto -down-> Python
 howto -down-> OpenSource
 index -down-> Introduction
+README -down-> Introduction
+README -down-> Contributing
+README -down-> Dependencies
+README -down-> ViewingtheSiteLocally
+README -down-> PreviewingChanges
 references -down-> References
 references -down-> ProgrammingLanguages
 references -down-> Frameworks
