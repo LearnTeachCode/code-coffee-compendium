@@ -110,3 +110,16 @@ Capture the Flag (CTF) challenges for learning security concepts and developing 
 |Browser & Internet
 |===
 
+== Web Development Tutorials
+ * https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
+ * https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
+ * https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
+ * https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world[Flask Mega Tutorial by Miguel Grinberg]
+ * https://flask.palletsprojects.com/en/1.1.x/tutorial/[Offical Flask Tutorial from the Flask Documentation]
+
+== Artificial Intelligence and Machine Learning Tutorials
+ * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
+ * https://www.deeplearningbook.org/[The Deep Learning Textbook]
+
+== Information Security Tutorials
+ * https://www.hacksplaining.com/[Hacksplaining]

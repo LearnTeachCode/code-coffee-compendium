@@ -175,7 +175,6 @@ a|
 == Careers in Tech
 
 === Software Engineering
- * https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
  * https://www.oodesign.com[Object oriented design patterns]
  * https://github.com/fbeline/design-patterns-JS[23 Design Patterns Implemented in Javascript]
  * https://github.com/faif/python-patterns[A collection of design patterns and idioms in Python]
@@ -186,8 +185,6 @@ a|
 === Electrical Engineering
 
 === Artificial Intelligence and Machine Learning
- * https://www.deeplearningbook.org/[The Deep Learning Textbook]
- * https://www.tensorflow.org/tutorials/[Get Started with TensorFlow]
  * https://keras.io/[keras]
 
 === Game Development
@@ -195,27 +192,16 @@ a|
 === Information Security
  * https://www.hacksplaining.com/[Hacksplaining]
 
-=== Web Development
- * https://tutorial.djangogirls.org/en/[Django Girls Tutorial]
- * https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
- * https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
- * https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world[Flask Mega Tutorial by Miguel Grinberg]
- * https://flask.palletsprojects.com/en/1.1.x/tutorial/[Offical Flask Tutorial from the Flask Documentation]
-
 === Version Control
  * https://ohshitgit.com/[Oh shit, git!]
  * http://think-like-a-git.net/[Think Like (a) Git]
 
-=== Python
- * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
- * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+== Python
  * https://inst.eecs.berkeley.edu/~cs61a/sp18/[Rigorous Introductory Course to Python and Computer Science]
 
-=== Open Source
- * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]
 
-=== Pair Programming
+== Pair Programming
  * https://gist.github.com/rouzbeh84/4bafc9fe4fe02edf506d11997c4674b0[Resources for pair programming remotely and on site]
 
-=== System Design
+== System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.

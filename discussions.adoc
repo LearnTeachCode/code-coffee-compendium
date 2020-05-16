@@ -103,3 +103,12 @@ image::https://www.eclipse.org/pdt/img/shot5-min.png[title="Eclipse", 200, 200, 
 Eclipse is one of the more general purpose IDEs available to developers. Eclipse was designed to make developing desktop and web applications fast and easy. Typically developers who use Eclipse code their projects in PHP or Java. Eclipse is open source software and is maintained by a dedicated community of developers.
 
 https://www.eclipse.org[Download Eclipse here]
+
+== Software Engineering
+ * https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
+
+== Python
+ * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
+
+
+ 
