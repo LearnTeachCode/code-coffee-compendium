@@ -3,7 +3,7 @@
 :toclevels: 4
 :source-highlighter: coderay
 
-<<index.adoc#,Return to the Homepage>>
+=== <<index.adoc#,Return to the Homepage>>
 
 image:./logo/code&coffeelogo.svg[logo,246,139]
 
