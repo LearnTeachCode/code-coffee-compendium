@@ -7,3 +7,5 @@ image:./logo/code&coffeelogo.svg[logo,246,139]
 == Sitemap
 
 plantuml::sitemap.puml["sitemap", "svg"]
+
+_This sitemap was automatically created by tracking all files in the project directory and their headers. https://github.com/LearnTeachCode/code-coffee-compendium/blob/master/convert.rb[View the source code here.]_ 
