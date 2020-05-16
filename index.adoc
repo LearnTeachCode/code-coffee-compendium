@@ -38,3 +38,5 @@ a|
 |===
 
 <<sitemap.adoc#,Click here to view the sitemap>>
+
+_Is something not quite right?_ https://github.com/LearnTeachCode/code-coffee-compendium/issues/new?assignees=&labels=&template=feature_request.md&title=[Submit an issue here.]
