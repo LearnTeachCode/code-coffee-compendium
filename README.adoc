@@ -11,9 +11,9 @@ endif::[]
 image:./logo/code&coffeelogo.svg[logo,246,139]
 
 == Introduction
-Welcome to the LearnTeachCode Code & Coffee Compendium! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this page serves as a resource compendium for facilitating frequently asked questions of the form "Where should I go to learn <insert computer science topic>" at our meetup events.
+Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this repository hosts the source code for https://learnteachcode.org/code-coffee-compendium/[code-coffee-compendium] resource site. 
 
-This page was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
+This site was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
 
 Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 
