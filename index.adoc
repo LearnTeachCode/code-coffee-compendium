@@ -17,20 +17,23 @@ Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 |Page Name |Description
 
 a|
-=== <<references.adoc#,References>>
-|Programming Languages, Frameworks, Computer Science Topics, and a LOT MORE!
-
-a|
-=== <<discussions.adoc#,Discussions and Articles>>
-|Dig deeper into some of your burning questions.
-
-a|
 === <<tutorials.adoc#,Tutorials and Challenges>>
 |Choose from an incredible list of tutorials, all curated by the Learn Teach Code community.
 
 a|
 === <<how-to.adoc#,How-To-Guides>>
 |Custom How-To-Guides written by the Learn Teach Code community.
+
+
+a|
+=== <<discussions.adoc#,Discussions and Articles>>
+|Dig deeper into some of your burning questions.
+
+
+a|
+=== <<references.adoc#,References>>
+|Programming Languages, Frameworks, Computer Science Topics, and a LOT MORE!
+
 
 |===
 
