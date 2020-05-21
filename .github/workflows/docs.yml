@@ -10,18 +10,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 1
+          persistent-credentials: false          
       - name: run asciidoctor
         uses: docker://asciidoctor/docker-asciidoctor
         with:
           args: asciidoctor index.adoc -o index.html
-      - name: create pull request
-        uses: peter-evans/create-pull-request@v2.4.4
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "docs: update github pages"
-          title: "docs: update github pages"
-          body: This is an auto-generated PR to update github pages
-          labels: docs
-          reviewers: cynful, capsulecorplab
-          branch: gh-pages
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          BRANCH: gh-pages
