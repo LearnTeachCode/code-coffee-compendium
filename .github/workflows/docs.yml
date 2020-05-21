@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          persistent-credentials: false          
+          persist-credentials: false          
       - name: run asciidoctor
         uses: docker://asciidoctor/docker-asciidoctor
         with:
