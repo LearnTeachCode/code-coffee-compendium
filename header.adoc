@@ -1,0 +1,10 @@
+= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
+:toc: left
+:toclevels: 4
+:source-highlighter: coderay
+
+=== <<index.adoc#,Return to the Homepage>>
+
+image:./logo/code&coffeelogo.svg[logo,246,139]
+
+toc::[]

@@ -1,0 +1,38 @@
+@startuml
+start
+
+if (Are you a...) then (Coder-In-Training)
+  if (Which best describes your goal) then (I want to make something awesome!)
+    :Python, Java, C++;
+    end
+  else (Make something awesome!)
+    if (Are you thinking of an app or a game?) then (I want to make games!)
+      :[[https://unity.com Unity,]] [[https://www.pygame.org/news PyGame,]] [[http://love2d.org LÖVE]];
+      end
+    else (I want to make an app!)
+      if (What platform are you using?) then (Desktop)
+        :Python, Java, JavaScript, C++;
+        end
+      else (Mobile)
+        :Swift, Java;
+        end
+      endif
+    endif
+  endif 
+else (l33t Coder)
+  if (What are you looking for?) then (Gimme a challenge!)
+    :Haskell, R, Caml;
+    end
+  else (I want to try a new framework)
+    if (What kind of work do you do?) then (App Development)
+      :Django, NodeJS, React;
+      end 
+    else (Web Development)
+      :Swift, Java;
+      end
+    endif
+  endif
+endif
+
+stop
+@enduml
