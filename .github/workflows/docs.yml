@@ -14,7 +14,7 @@ jobs:
       - name: run asciidoctor
         uses: docker://asciidoctor/docker-asciidoctor
         with:
-          args: asciidoctor index.adoc -o index.html
+          args: ruby convert.rb
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
