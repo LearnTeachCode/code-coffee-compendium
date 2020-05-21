@@ -2,7 +2,7 @@ include::header.adoc[]
 
 == Community How-To Guides
 
-include::how-to guides/template.adoc[opts=adjoin]
+include::how-to_guides/template.adoc[opts=adjoin]
 
 == Python
  * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
