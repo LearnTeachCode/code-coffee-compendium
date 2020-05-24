@@ -15,7 +15,7 @@ Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Mainta
 
 This site was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
 
-Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
+ant extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 
 == Contributing
 Contributors are welcome to fork this repository and make changes. Please submit a Pull Request with your changes to be reviewed by a repository owner.

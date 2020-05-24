@@ -23,7 +23,6 @@ references -down-> CareersinTech
 references -down-> Python
 references -down-> PairProgramming
 references -down-> SystemDesign
-sitemap -down-> Sitemap
 tutorials -down-> TutorialsandChallenges
 tutorials -down-> InteractiveLessons&Challenges
 tutorials -down-> WebDevelopmentTutorials
