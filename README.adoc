@@ -6,7 +6,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-= code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
+== code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
 
 image:./logo/code&coffeelogo.svg[logo,246,139]
 
@@ -15,7 +15,7 @@ Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Mainta
 
 This site was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
 
-ant extra coding help? Join our https://learnteachcode.org/slack[Slack group].
+Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 
 == Contributing
 Contributors are welcome to fork this repository and make changes. Please submit a Pull Request with your changes to be reviewed by a repository owner.

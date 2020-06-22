@@ -1,4 +1,25 @@
-include::header.adoc[]
++++
+author = "LTC Code & Coffee Compendium Authors"
+title = "References"
+date = "2020-06-21"
+description = "Reference material on programming languages, development frameworks, and other tech topics."
+tags = [
+
+]
+categories = [
+
+]
+series = []
+aliases = []
++++
+
+:toc: left
+:toclevels: 4
+
+toc::[]
+
+[#nav-bar]
+* https://learnteachcode.org/code-coffee-compendium/home[Homepage] | https://learnteachcode.org/code-coffee-compendium/tutorials[Tutorials and Challenges] | https://learnteachcode.org/code-coffee-compendium/how-to[How-To Guides] |  https://learnteachcode.org/code-coffee-compendium/discussions[Discussions and Articles] | https://learnteachcode.org/code-coffee-compendium/references[References]
 
 == References
 
@@ -24,7 +45,7 @@ a|
 [#java]
 == image:https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png[title="Java Logo", 200, 200, align="center"]
 |Java is the name of a programming language created by Sun Microsystems. Java runs on many different operating systems, including Android, the world's most popular mobile operating system. Source: Wikipedia.org
-a| 
+a|
 [source,java]
 ----
 int age = 21;
@@ -111,7 +132,7 @@ main = do
 
 == Frameworks
 
-[%header,cols=2] 
+[%header,cols=2]
 
 |===
 |Name |Description
@@ -161,7 +182,7 @@ a|
 
 === Discrete Math
  * http://mfleck.cs.illinois.edu/building-blocks/index-sp2018.html[An Undergrad Level Introduction to Discrete Math]
- 
+
 === Linear Algebra
  * https://github.com/fastai/numerical-linear-algebra[Computational Linear Algebra]
  * http://arminstraub.com/teaching/linearalgebra-fall14[Introduction to Applied Linear Algebra]
@@ -181,7 +202,7 @@ a|
 
 === Data Science
  * https://github.com/MrMimic/data-scientist-roadmap[Data Science Roadmap]
- 
+
 === Electrical Engineering
 
 === Artificial Intelligence and Machine Learning

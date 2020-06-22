@@ -1,0 +1,3 @@
+[submodule "themes/hugo.386-ubuntu"]
+	path = themes/hugo.386-ubuntu
+	url = https://github.com/TristanDamron/hugo.386-Ubuntu-Theme-.git
