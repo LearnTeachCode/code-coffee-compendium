@@ -1,4 +1,25 @@
-include::header.adoc[]
++++
+author = "LTC Code & Coffee Compendium Authors"
+title = "Tutorials and Challenges"
+date = "2020-06-21"
+description = "Choose from an incredible list of tutorials, all curated by the Learn Teach Code community."
+tags = [
+
+]
+categories = [
+
+]
+series = []
+aliases = []
++++
+
+:toc: left
+:toclevels: 4
+
+toc::[]
+
+[#nav-bar]
+* https://learnteachcode.org/code-coffee-compendium/home[Homepage] | https://learnteachcode.org/code-coffee-compendium/tutorials[Tutorials and Challenges] | https://learnteachcode.org/code-coffee-compendium/how-to[How-To Guides] |  https://learnteachcode.org/code-coffee-compendium/discussions[Discussions and Articles] | https://learnteachcode.org/code-coffee-compendium/references[References]
 
 == Tutorials and Challenges
 
@@ -8,7 +29,7 @@ include::header.adoc[]
 
 Learn a tech stack by doing interactive tutorials. Tech stacks can include, but are not limited to, programming languages (s.a., Python, Javascript, Golang, SQL) or frameworks (s.a., Node, React, Sass).
 
-[%header,cols=3] 
+[%header,cols=3]
 
 |===
 |Name |Description |Requirements
@@ -52,7 +73,7 @@ This will place the tour binary in your workspace's bin directory.
 
 === Interactive Coding Challenges
 
-[%header,cols=3] 
+[%header,cols=3]
 
 |===
 |Name |Description |Requirements
@@ -70,11 +91,11 @@ This will place the tour binary in your workspace's bin directory.
 |https://jupyter.org/install[Jupyter Notebook]
 |===
 
-=== Capture the Flag (CTF) 
+=== Capture the Flag (CTF)
 
 Capture the Flag (CTF) challenges for learning security concepts and developing command line skills.
 
-[%header,cols=3] 
+[%header,cols=3]
 
 |===
 |Name |Description |Requirements
@@ -94,7 +115,7 @@ Capture the Flag (CTF) challenges for learning security concepts and developing 
 
 === Interactive Sandbox Environments
 
-[%header,cols=3] 
+[%header,cols=3]
 
 |===
 |Name
