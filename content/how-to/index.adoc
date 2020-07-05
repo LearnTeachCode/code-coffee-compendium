@@ -1,0 +1,30 @@
++++
+author = "LTC Code & Coffee Compendium Authors"
+title = "How-To Guides"
+date = "2020-06-21"
+description = "Custom How-To-Guides written by the Learn Teach Code community."
+tags = [
+
+]
+categories = [
+
+]
+series = []
+aliases = []
++++
+
+:toc: left
+:toclevels: 4
+
+toc::[]
+
+[#nav-bar]
+* https://learnteachcode.org/code-coffee-compendium/home[Homepage] | https://learnteachcode.org/code-coffee-compendium/tutorials[Tutorials and Challenges] | https://learnteachcode.org/code-coffee-compendium/how-to[How-To Guides] |  https://learnteachcode.org/code-coffee-compendium/discussions[Discussions and Articles] | https://learnteachcode.org/code-coffee-compendium/references[References]
+
+== Community How-To Guides
+
+== Python
+ * https://automatetheboringstuff.com/[Automate the Boring Stuff with Python]
+
+== Open Source
+ * https://opensource.guide/how-to-contribute/[How to Contribute to Open Source]

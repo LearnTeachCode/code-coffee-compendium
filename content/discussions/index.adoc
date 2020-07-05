@@ -1,4 +1,25 @@
-include::header.adoc[]
++++
+author = "LTC Code & Coffee Compendium Authors"
+title = "Discussions and Articles"
+date = "2020-06-21"
+description = "Dig deeper into some of your burning questions."
+tags = [
+
+]
+categories = [
+
+]
+series = []
+aliases = []
++++
+
+:toc: left
+:toclevels: 4
+
+toc::[]
+
+[#nav-bar]
+* https://learnteachcode.org/code-coffee-compendium/home[Homepage] | https://learnteachcode.org/code-coffee-compendium/tutorials[Tutorials and Challenges] | https://learnteachcode.org/code-coffee-compendium/how-to[How-To Guides] |  https://learnteachcode.org/code-coffee-compendium/discussions[Discussions and Articles] | https://learnteachcode.org/code-coffee-compendium/references[References]
 
 == Discussions and Articles
 
@@ -29,7 +50,7 @@ if (Are you a...) then (Coder-In-Training)
         end
       endif
     endif
-  endif 
+  endif
 else (Professional Coder)
   if (What are you looking for?) then (Gimme a challenge!)
     :[[https://learnteachcode.org/code-coffee-compendium/references.html#haskell Haskell,]] R, Caml;
@@ -37,7 +58,7 @@ else (Professional Coder)
   else (I want to try a new framework)
     if (What kind of work do you do?) then (App Development)
       :[[https://learnteachcode.org/code-coffee-compendium/references.html#django Django,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#nodejs NodeJS,]] [[https://learnteachcode.org/code-coffee-compendium/references.html#react React]];
-      end 
+      end
     else (Web Development)
       :[[https://learnteachcode.org/code-coffee-compendium/references.html#swift Swift,]] [[[[https://learnteachcode.org/code-coffee-compendium/references.html#java Java]];
       end
@@ -75,7 +96,7 @@ https://www.vim.org[Download Vim here]
 
 image::https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevblogs.microsoft.com%2Fpython%2Fwp-content%2Fuploads%2Fsites%2F12%2F2019%2F06%2FJune19-PlotViewer-1024x565.gif&f=1&nofb=1[title="Visual Studio Code", 200, 200, float="left"]
 
-Visual Studio Code (often abbreviated as VS Code) is one of the rising stars in the software development world. VS Code provides programmers the best of both worlds; while it is a true plain text editor, it can be customized with community developed extensions to function very similar to an IDE. The codebase for VS Code is managed by a community of developers who are working every day to make VS Code the best that it can be. 
+Visual Studio Code (often abbreviated as VS Code) is one of the rising stars in the software development world. VS Code provides programmers the best of both worlds; while it is a true plain text editor, it can be customized with community developed extensions to function very similar to an IDE. The codebase for VS Code is managed by a community of developers who are working every day to make VS Code the best that it can be.
 
 https://code.visualstudio.com[Download VS Code here]
 
@@ -92,7 +113,7 @@ https://www.jetbrains.com/idea/[Download IntelliJ here]
 
 image::https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.jetbrains.com%2Fpycharm%2Fimg%2Fscreenshots%2FcomplexLook%402x.jpg&f=1&nofb=1[title="PyCharm", 200, 200, float="left"]
 
-PyCharm is another IDE created by JetBrains, focused on projects written in the Python programming language. Marketed as an IDE for professional Python developers, the software comes with the ability to quickly set up and maintain Python virtual environments. PyCharm also makes managing multiple versions of Python on a system a piece of cake! 
+PyCharm is another IDE created by JetBrains, focused on projects written in the Python programming language. Marketed as an IDE for professional Python developers, the software comes with the ability to quickly set up and maintain Python virtual environments. PyCharm also makes managing multiple versions of Python on a system a piece of cake!
 
 https://www.jetbrains.com/pycharm/[Download PyCharm here]
 
@@ -109,6 +130,3 @@ https://www.eclipse.org[Download Eclipse here]
 
 == Python
  * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
-
-
- 
