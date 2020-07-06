@@ -17,21 +17,21 @@ Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 |Page Name |Description
 
 a|
-=== https://learnteachcode.org/code-coffee-compendium/tutorials[Tutorials and Challenges]
+=== link:../tutorials/[Tutorials and Challenges]
 |Choose from an incredible list of tutorials, all curated by the Learn Teach Code community.
 
 a|
-=== https://learnteachcode.org/code-coffee-compendium/how-to[How-To Guides]
+=== link:../how-to/[How-To Guides]
 |Custom How-To-Guides written by the Learn Teach Code community.
 
 
 a|
-=== https://learnteachcode.org/code-coffee-compendium/discussions[Discussions and Articles]
+=== link:../discussions/[Discussions and Articles]
 |Dig deeper into some of your burning questions.
 
 
 a|
-=== https://learnteachcode.org/code-coffee-compendium/references[References]
+=== link:../references/[References]
 |Programming Languages, Frameworks, Computer Science Topics, and a LOT MORE!
 
 
