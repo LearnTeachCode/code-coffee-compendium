@@ -14,6 +14,11 @@ jobs:
           submodules: recursive  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Update submodules
+        uses: srt32/git-actions@v0.0.3
+        with:
+          args: git submodule update --remote --merge
+
       - name: Build
         run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor hugo --minify -v
 
