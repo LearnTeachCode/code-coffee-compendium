@@ -1,0 +1,11 @@
+body { 
+	visibility: hidden 
+}
+
+.navmargin {
+	margin-top: 2em;
+}
+
+h2 {
+    white-space: normal;
+}
