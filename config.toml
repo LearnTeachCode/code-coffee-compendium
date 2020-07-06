@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://learnteachcode.org/code-coffee-compendium"
 languageCode = "en-us"
 title = "Code Coffee Compendium"
 theme = "hugo.386-ubuntu"
