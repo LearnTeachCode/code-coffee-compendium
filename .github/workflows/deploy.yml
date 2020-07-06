@@ -17,7 +17,7 @@ jobs:
       - run: npm ci
 
       - name: Build
-        run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor ./build.sh
+        run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor hugo --minify -v
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
