@@ -2,3 +2,4 @@ baseURL = "http://learnteachcode.org/code-coffee-compendium"
 languageCode = "en-us"
 title = "Code Coffee Compendium"
 theme = "hugo.386-ubuntu"
+canonifyURLs = true
