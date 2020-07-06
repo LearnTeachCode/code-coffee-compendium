@@ -14,8 +14,6 @@ jobs:
           submodules: recursive  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - run: npm ci
-
       - name: Build
         run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor hugo --minify -v
 
