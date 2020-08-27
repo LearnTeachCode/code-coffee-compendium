@@ -8,7 +8,7 @@ endif::[]
 
 == code-coffee-compendium image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/LearnTeachCode/code-coffee-compendium/]
 
-image:./logo/code&coffeelogo.svg[logo,246,139]
+https://learnteachcode.org/code-coffee-compendium/home/
 
 == Introduction
 Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this repository hosts the source code for https://learnteachcode.org/code-coffee-compendium/[code-coffee-compendium] resource site. 
