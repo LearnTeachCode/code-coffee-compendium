@@ -20,7 +20,7 @@ jobs:
           args: git submodule update --remote --merge
 
       - name: Build
-        run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor hugo --minify -v
+        run: bash build.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
