@@ -99,7 +99,7 @@ void Update() {
 
 a|
 [#swift]
-== image:https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FSwift_logo.svg%2F853px-Swift_logo.svg.png&f=1&nofb=1[title="Swift Logo", 200, 200]
+== image:https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.techhive.com%2Fimages%2Farticle%2F2015%2F12%2Fswift-logo-100631523-large.jpg&f=1&nofb=1, 200, 200]
 |Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. Source: Wikipedia.org
 a|
 [source,javascript]
