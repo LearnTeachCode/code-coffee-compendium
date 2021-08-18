@@ -9,6 +9,8 @@ This page was generated using https://asciidoctor.org/[Asciidoctor] - a static-s
 
 Want extra coding help? Join our https://learnteachcode.org/slack[Slack group] or https://discord.gg/uS8eHD6[Discord Server].
 
+This is our Github. Check out: https://github.com/LearnTeachCode/code-coffee-compendium
+
 [%header,cols=2]
 
 |===
