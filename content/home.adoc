@@ -3,7 +3,7 @@
 image:/code_coffeelogo.png[logo,246,139]
 
 == Introduction
-Welcome to the LearnTeachCode Code & Coffee Compendium! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this page serves as a resource compendium for facilitating frequently asked questions of the form "Where should I go to learn <insert computer science topic>" at our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/code-coffee-compendium/issues/new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
+Welcome to the LearnTeachCode Code & Coffee Compendium! Maintained by the Office Hours study group, this page serves as a resource compendium for facilitating frequently asked questions of the form "Where should I go to learn <insert computer science topic>" at our meetup events. If you have any requests for particular resources, or would like to add one, please feel free to submit a https://github.com/LearnTeachCode/code-coffee-compendium/issues/new[new issue] or create a https://help.github.com/en/articles/creating-a-pull-request-from-a-fork[pull request]!
 
 This page was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
 
