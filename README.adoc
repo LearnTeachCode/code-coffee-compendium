@@ -32,37 +32,30 @@ This project has a number of dependencies that must be met before running on you
 
 NOTE: To Windows users: Windows Command Prompt will not satisfy this dependency. Instead, you can use PowerShell or another Bash terminal (like Git Bash for example).
 
-== Viewing the Site Locally
+== Viewing the site through a local web server
 CAUTION: Please make sure you have all required dependencies before continuing.
 
-1. _Clone or download this repository to your machine._
-2. _Open a terminal window. Change your current directory to the cloned project directory._
-3. _Using a Bash terminal, type the following command:_
+There may be situations where you want to view the site locally through a local web server. In this case, you should run `serve.sh`. For example, type the following command in the project directory:
+
+. _Clone or download this repository to your machine._
+. _Open a terminal window. Change your current directory to the cloned project directory._
+. _Using a Bash terminal, type the following command to update all dependent submodules:_
+
+[source] 
+git submodule update --init --recursive
+
+[start=4]
+. _Next, type the following command:_
    
 [source]
----
-sh build.sh
----
+sh serve.sh
 
 NOTE: If you receive a permissions error on *nix or macOS, prepend _sudo_ to the command. For example, type the following command:
 
 [source]
----
-sudo sh build.sh
----
+sudo sh serve.sh
 
-4. Double-click on the index.html file that was generated in the project directory to view the site in a web browser.
-
-=== Viewing the site through a local web server
-
-There may be situations where you want to view the site locally through a local web server. In this case, rather than running `build.sh` in a Bash terminal, you should run `serve.sh`. For example, type the following command in the project directory:
-
-[source]
----
-sh serve.sh
----
-
-After running the `serve.sh` script, you can access the site through your web browser through this URL: http://localhost:1313/code-coffee-compendium
+After running the `serve.sh` script, you can access the site through your web browser through this URL: http://localhost:1313/code-coffee-compendium/home
 
 You can stop the local web server by pressing CTRL + C in the Bash terminal where you ran the `serve.sh` script.
 
