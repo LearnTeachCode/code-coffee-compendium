@@ -11,14 +11,14 @@ endif::[]
 https://learnteachcode.org/code-coffee-compendium/home/
 
 == Introduction
-Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Maintained by the Baldwin Park & El Sereno/Alhambra study group, this repository hosts the source code for https://learnteachcode.org/code-coffee-compendium/[code-coffee-compendium] resource site. 
+Welcome to the LearnTeachCode Code & Coffee Compendium Github Repository! Maintained by the Code & Coffee Office Hours study group, this repository hosts the source code for https://learnteachcode.org/code-coffee-compendium/[code-coffee-compendium] resource site. 
 
 This site was generated using https://asciidoctor.org/[Asciidoctor] - a static-site generator for the https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language.
 
 Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
 
 == Contributing
-Contributors are welcome to fork this repository and make changes. Please submit a Pull Request with your changes to be reviewed by a repository owner.
+Contributors are welcome to fork this repository and make changes. Please submit a Pull Request (PR) with your changes to be reviewed by a repository owner.
 
 _Not sure where to start?_ There are a number of issues that you can work on. https://github.com/LearnTeachCode/code-coffee-compendium/issues/[Find them here.]
 
@@ -26,39 +26,36 @@ _Not sure where to start?_ There are a number of issues that you can work on. ht
 == Dependencies
 This project has a number of dependencies that must be met before running on your machine.
 
-1. _Download https://www.ruby-lang.org/en/[Ruby 2.4+]_
-2. _Clone or download this repository to your machine._
-3. _Open a terminal window. Change your current directory to the cloned project directory._
-4. _Install the package bundle by running the following command in the terminal window:_
+1. Docker
+2. Git (for contributors, quicker access to the repository source code)
+3. A Bash terminal (standard terminal environment for *nix and macOS).
 
-----
-gem install bundler:2.1.4
-bundle install
-----
+NOTE: To Windows users: Windows Command Prompt will not satisfy this dependency. Instead, you can use PowerShell or another Bash terminal (like Git Bash for example).
 
-This project also uses PlantUML to generate diagrams. https://plantuml.com/download[Download PlantUML here.]
-
-NOTE: In addition to PlantUML, you will need GraphViz to display the sitemap diagram. https://www.graphviz.org/download/[Download GraphViz here.]
-
-== Viewing the Site Locally
+== Viewing the site through a local web server
 CAUTION: Please make sure you have all required dependencies before continuing.
 
-1. _Clone or download this repository to your machine._
-2. _Open a terminal window. Change your current directory to the cloned project directory._
-3. _Inside of your terminal, type the following command:_
+There may be situations where you want to view the site locally through a local web server. In this case, you should run `serve.sh`. For example, type the following command in the project directory:
 
-----
-ruby convert.rb
-----
+. _Clone or download this repository to your machine._
+. _Open a terminal window. Change your current directory to the cloned project directory._
+. _Using a Bash terminal, type the following command to update all dependent submodules:_
 
-NOTE: The convert.rb script will convert the .adoc files inside of the project directory into .html files that can be viewed in a web brower. You may see a few warnings appear in the terminal window after running this script. In most cases, it's fine to ignore them. If you have a concern,  https://github.com/LearnTeachCode/code-coffee-compendium/issues/new?assignees=&labels=&template=feature_request.md&title=[please submit an issue.]
+[source] 
+git submodule update --init --recursive
 
-Double-click on the index.html file that was generated in the project directory to view the site in a web browser.
+[start=4]
+. _Next, type the following command:_
+   
+[source]
+sh serve.sh
 
-== Previewing Changes
-If you are a contributor, you can view any changes you have made to the site on your machine by running the following command inside of a terminal window:
+NOTE: If you receive a permissions error on *nix or macOS, prepend _sudo_ to the command. For example, type the following command:
 
-----
-ruby convert.rb
-----
+[source]
+sudo sh serve.sh
+
+After running the `serve.sh` script, you can access the site through your web browser through this URL: http://localhost:1313/code-coffee-compendium/home
+
+You can stop the local web server by pressing CTRL + C in the Bash terminal where you ran the `serve.sh` script.
 

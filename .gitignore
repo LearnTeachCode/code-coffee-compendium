@@ -7,3 +7,9 @@ static/
 
 # Asciidoctor
 .asciidoctor/
+ 
+# VIM 
+*.swp
+*.swo
+*~
+
