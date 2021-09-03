@@ -223,6 +223,7 @@ a|
 
 == Pair Programming
  * https://gist.github.com/rouzbeh84/4bafc9fe4fe02edf506d11997c4674b0[Resources for pair programming remotely and on site]
+ * https://tuple.app/pair-programming-guide/[Tuple's Pair Programming Guide]
 
 == System Design
  * https://github.com/donnemartin/system-design-primer[The System Design Primer]: Learn how to design large-scale systems. Prep for the system design interview.
