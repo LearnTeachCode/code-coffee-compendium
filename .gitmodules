@@ -1,3 +1,6 @@
 [submodule "themes/hugo.386-ubuntu"]
 	path = themes/hugo.386-ubuntu
 	url = https://github.com/TristanDamron/hugo.386-Ubuntu-Theme-.git
+[submodule "hugo-asciidoctor-plantuml"]
+	path = hugo-asciidoctor-plantuml
+	url = https://github.com/capsulecorplab/hugo-asciidoctor-plantuml.git
