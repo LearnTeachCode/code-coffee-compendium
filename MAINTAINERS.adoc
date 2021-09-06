@@ -1,0 +1,45 @@
+:toc:
+:toclevels: 3
+:repo-title: https://github.com/LearnTeachCode/code-coffee-compendium[Code Coffee Compendium]
+
+= Maintainer's Guide
+
+toc::[]
+
+This guide is intended for contributors tagged as **reviewers on a pull request** or have **triage**, **write**, or **maintainer** roles on the {repo-title} repo.
+
+== Workflow
+
+We use the https://guides.github.com/introduction/flow[github flow] for managing this repository.
+At a glance, this means:
+
+- a **main** branch.
+  This branch MUST be releasable at all times.
+  New branches should be created from this branch.
+  Pull requests made to this branch should be linked to one or more issues.
+
+== Issue triage process
+
+Issues are tracked using the GitHub issue tracker. See https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart[Quickstart for GitHub Issues].
+
+Issue triaging responsibilities include:
+
+- **Labeling Issue**. Labels are used to identify a category, in order to narrow the scope and subject matter of an open issue. See https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-labels[Adding labels].
+- **Resolving duplicates**. Newly reported duplicate issues can be resolved using the `duplicate` label.
+- **Adding to a milestone**. Issues can be included as part of an existing milestone. See https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-milestones[Adding milestones].
+- **Adding to a project**. Issues can be included as part of an existing project. See https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#adding-the-issue-to-a-project[Adding the issue to a project].
+- **Communicating**. Contributors are encouraged to engage conversation in the form of comments on an issue. See https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#communicating[Communicating].
+
+== Reviewing a pull request
+
+To review a pull request,
+
+. Verify that the pull request is linked to one or more issues. See https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue[Linking a pull request to an issue].
+. Verify that the contents of a pull request conforms to the link:CONTRIBUTORS.adoc#content-style-guide[Content style guide].
+. Verify that the contents of a pull request adequately resolves its linked issues.
+. Provide **comments**, **approval**, or **request for changes**. See https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews[About pull request reviews].
+
+== Merge process
+
+A pull request can be merged once it has been approved by one or more reviewer.
+
