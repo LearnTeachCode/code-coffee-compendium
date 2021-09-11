@@ -39,7 +39,6 @@ IMPORTANT: If you haven't been added as a collaborator to the link:{github-repo}
 
 . https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch[Create a new branch] in the link:{github-repo}[{project-name}] repo.
 Make sure the branch name follows the content style guide for link:{doc-name}#naming-a-branch[naming a branch].
-If no such issue exists, link:{doc-name}#opening-an-issue[open an issue].
 . As you edit your content, ensure that it conforms to the link:{doc-name}#content-style-guide[content style guide].
 . Commit your changes and https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request[create a pull request]. Be sure to include a https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords[closing keyword] followed by the associated issue number in the pull request description, e.g., `closes #1701`. If the pull request closes multiple issues, add a closing keyword for each issue.
 
@@ -54,4 +53,6 @@ IMPORTANT: If you are creating a pull request from a forked repo, be sure that t
 
 === Naming a branch
 
-Branch names should be prepended with its associated issue label followed by a `/`, followed by a `dash-separated` description of the changes to be made, followed by its associated issue number, e.g., `feature/add-tricoder-with-touchscreen-docs/1701`. 
+Branch names should be all lowercase, prepended with its associated issue label, followed by a `dash-separated` description of the changes to be made, followed by its associated issue number, and delimited by a forward slash, `/`.
+e.g., `feature/add-tricoder-with-touchscreen-docs/1701`.
+If no such issue exists, link:{doc-name}#opening-an-issue[open an issue].
