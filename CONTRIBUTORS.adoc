@@ -35,7 +35,7 @@ A https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-c
 
 To submit a pull request,
 
-IMPORTANT: If you haven't been added as a collaborator to the link:{github-repo}[{project-name}] repo, you will need to either https://docs.github.com/en/get-started/quickstart/fork-a-repo[fork] the repo or contact the repo admin to request write access. If you've forked the repo, be sure to https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork[sync your forked repo] in order to avoid potential merge conflicts.
+IMPORTANT: If you haven't been added as a collaborator to the link:{github-repo}[{project-name}] repo, you will need to either https://docs.github.com/en/get-started/quickstart/fork-a-repo[fork] the repo or contact the repo admin (@capsulecorplab, @cynful, @sugarsyntax, or @tristandamron) to request write access. If you've forked the repo, be sure to https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork[sync your forked repo] in order to avoid potential merge conflicts.
 
 . https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch[Create a new branch] in the link:{github-repo}[{project-name}] repo.
 Make sure the branch name follows the content style guide for link:{doc-name}#naming-a-branch[naming a branch].
