@@ -1,0 +1,58 @@
+= Contributor's guide
+:toc:
+:toclevels: 3
+:doc-name: CONTRIBUTORS.adoc
+:project-name: Code Coffee Compendium
+:github-repo: https://github.com/LearnTeachCode/code-coffee-compendium
+:important-caption: :heavy_exclamation_mark:
+
+== Contributing to documentation
+
+Contributions to documentation can include, but not limited to, creating, updating, and/or reviewing content for the {project-name}.
+We use a https://www.writethedocs.org/guide/docs-as-code/[docs-as-code] approach and the https://guides.github.com/introduction/flow/[GitHub flow] workflow to fascilitate these contributions.
+To decide what you can contribute, read through the list of {github-repo}/issues[Issues] and comment on the issue if you'd either like to work on the particular issue or require additional clarity on the issue.
+Once you decide which issue you'd like to work on, you can link:{doc-name}#submitting-a-pull-request[submit a pull request].
+Contributors are also welcome to link:{doc-name}#opening-an-issue[open an issue] as well as help with link:MAINTAINERS.adoc#reviewing-a-pull-request[reviewing a pull request].
+
+== Opening an issue
+
+{github-repo}/issues[Issues] specify tasks that allow maintainers to capture & resolve missing or incorrect content, as well as implement new features or bug fixes in the documentation build tools.
+Some issues are grouped by {github-repo}/milestones[Milestones] - a collection of issues that relate to a specific deliverable. Completed milestones are tagged as a {github-repo}/releases[Release].
+
+To open an issue,
+
+. On GitHub, navigate to the {project-name} repository and click {github-repo}/issues[Issues]
+. Click *New issue*.
+. Specify a title for the issue topic. A good issue title should start with a verb, e.g., _add tutorial for learning git_.
+. Write a brief description of the scope of the issue, e.g., _As a beginner developer learning distributed version control, I want to follow an interactive tutorial for learning git, so that I can manage my project such that I can track, branch, and/or revert changes_.
+. Click *Submit new issue*.
+
+See https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue[Creating an issue].
+
+== Submitting a pull request
+
+A https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests[pull request] is a proposal for changes to a https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches[branch].
+
+To submit a pull request,
+
+IMPORTANT: If you haven't been added as a collaborator to the link:{github-repo}[{project-name}] repo, you will need to either https://docs.github.com/en/get-started/quickstart/fork-a-repo[fork] the repo or contact the repo admin (@capsulecorplab, @cynful, @sugarsyntax, or @tristandamron) to request write access. If you've forked the repo, be sure to https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork[sync your forked repo] in order to avoid potential merge conflicts.
+
+. https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch[Create a new branch] in the link:{github-repo}[{project-name}] repo.
+Make sure the branch name follows the content style guide for link:{doc-name}#naming-a-branch[naming a branch].
+. As you edit your content, ensure that it conforms to the link:{doc-name}#content-style-guide[content style guide].
+. Commit your changes and https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request[create a pull request]. Be sure to include a https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords[closing keyword] followed by the associated issue number in the pull request description, e.g., `closes #1701`. If the pull request closes multiple issues, add a closing keyword for each issue.
+
+IMPORTANT: If you are creating a pull request from a forked repo, be sure that the https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-base-branch-of-a-pull-request[base branch of the pull request] is set the `main` branch of the link:{github-repo}[{project-name}] repo, not your forked repo.
+
+[start=4]
+. If you're not yet ready for a review, mark the pull request as _Draft_ to indicate it's a work in progress. Continue updating your doc and pushing your changes until you're happy with the content.
+. When you're ready for a review, mark the pull request as _Ready for review_.
+. Once your pull request has been merged, you can safely delete your branch.
+
+== Content style guide
+
+=== Naming a branch
+
+Branch names should be all lowercase, prepended with its associated issue label, followed by a `dash-separated` description of the changes to be made, followed by its associated issue number, and delimited by a forward slash, `/`.
+e.g., `feature/add-tricoder-with-touchscreen-docs/1701`.
+If no such issue exists, link:{doc-name}#opening-an-issue[open an issue].
